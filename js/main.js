@@ -4,8 +4,8 @@ console.log('Hola mundo!');
 
 function mostrarMensajeInicial() {
 
-  if (confirm('Este sitio esta en desarrollo, disculpe las molestias')) {
-    alert('Gracias por visitarnos!');
+  if (confirm('Bienvenido a esta página web de tu interes!!')) {
+    alert('Espero que seade tu agrado!');
   } else {
     alert('...');
   }
